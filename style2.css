@@ -1,0 +1,98 @@
+header {
+	background: gray;
+	padding: 20px 0;
+}
+
+.cabecalho {
+	position: relative;
+	width:  940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+    top: 75px;
+    right: 0;
+}
+nav li{
+	display: inline;
+	margin-left: 10px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: darkgreen;
+	text-decoration: underline;
+}
+
+
+
+#banner {
+	width: 100%
+	
+}
+
+#banner2 {
+    margin-top: 20px;
+    margin-left: 10px;	
+}
+
+.paragrafo {
+	font-size: 20px;
+	margin-left: 10px;
+
+}
+
+#casamento {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 17px;
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+.tamanhofonte {
+	font-size: 18px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.titulo-lista {
+	font-size: 25px;
+	padding-left: 20px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.lista-positiva{
+	margin-left: 10px;
+}
+
+.lista-negativa {
+	margin-left: 10px;
+}
+
+footer {
+	text-align: center;
+	background:  url("bg.jpg");
+	padding: 40px 0;
+	margin-top: 10px;
+}
+
+.copyright {
+	color:  #FFFFFF;
+	font-size:  13px;
+	margin: 20px 0 0;
+}
